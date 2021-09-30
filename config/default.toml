@@ -1,0 +1,12 @@
+# server configs
+[server]
+port = 8080
+host = "localhost"
+
+# database configs
+[db]
+username = "root"
+password = ""
+host = "localhost"
+port = "27017"
+name = "advanced_mongodb"
